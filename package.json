@@ -1,0 +1,23 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "Just another sampe node to heroku app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/someshkar/heroku.git"
+  },
+  "author": "Somesh Kar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/someshkar/heroku/issues"
+  },
+  "homepage": "https://github.com/someshkar/heroku#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
